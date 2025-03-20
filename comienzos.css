@@ -1,0 +1,71 @@
+body{
+
+background-color:gray;
+
+}
+
+h2{
+	font-size: 17p;
+	font-weight: bold;
+	font-family: Oswald;
+	text-align: justify;
+	line-height: 2;
+	letter-spacing: 6px;
+	text-align: center;
+}
+h3{
+	font-size: 10p;
+	font-weight: bold;
+	font-family: Oswald;
+	text-align: justify;
+	line-height: 2;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+.fotos{
+	position:fixed;
+	margin-top:50px;
+	border-radius: 10px;
+}
+.caja{
+	margin: 20px;
+	gap:30px;
+}
+.caja1{
+	line-height: 1px;
+	border: 2px solid #090C08 ;
+	border-radius: 10px;
+	background: #EAFC25;
+}
+.caja2{
+	line-height: 1px;
+	border: 2px solid #090C08 ;
+	border-radius: 10px;
+	background: #D2B48C;
+}
+.caja3{
+	line-height: 1px;
+	border: 2px solid #090C08 ;
+	border-radius: 10px;
+	background: #D2B48C;
+}
+.caja4{
+	line-height: 1px;
+	border: 2px solid #090C08 ;
+	border-radius: 10px;
+	background: #D2B48C;
+}
+img{
+	margin:20px;
+	align-items: center;
+	margin-left:40%;
+	box-shadow: 10px 20px 10px 5px #0009;
+	border-radius: 10px;
+	margin-down:40px;
+		transition: transform 0.5s
+
+}
+img:hover{
+	transform:scale(1.1);
+}

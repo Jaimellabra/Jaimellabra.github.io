@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<meta charset "utf-8">
+		<title>2.Reglasdelfútbol</title>
+		<link rel="stylesheet" href="reglas.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+	</head>
+<body>
+	<button href="Pagina1.html"> Click aqui para volver al inicio </button>
+	<div class="caja caja1"><h2> 2.Reglas del fútbol </h2></div>
+	<hr>
+	<h3> El fítbol es un deporte de 2 equipos de 11 jugadores cada equipo en el que el objetivo del partido es marcar más goles en la portería del equipo contrario que el equipo contario en la tuya </h2>
+</body>
